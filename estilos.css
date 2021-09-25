@@ -21,20 +21,20 @@ display:flex;
 }
 
 .Mision{
-    padding: 30px 50px 30px 80px;
-    width: 25%;
+    padding: 30px 30px 30px 60px;
+    width: 30%;
     text-align: center;
 
 }
 
 .Servicio{
-    padding: 30px 50px 30px 50px;
-    width: 25%;
+    padding: 30px 30px 30px 30px;
+    width: 30%;
 }
 
 .Valores{
-    padding: 30px 80px 30px 50px;
-    width: 25%;
+    padding: 30px 60px 30px 30px;
+    width: 30%;
 }
 
 @media (max-width:600px){
